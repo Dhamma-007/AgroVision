@@ -1,2 +1,1 @@
-#AGRO-VISION 
-A Holistic Solution For Farmer
+AGRO-VISION : A Holistic Solution For Farmer
